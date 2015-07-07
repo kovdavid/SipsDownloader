@@ -7,6 +7,6 @@ config :episode_feed,
 
 config :episode_download,
   directory: "/mnt/data/Videos/ElixirSips",
-  login_url: "login_url",
+  login_url:  "https://elixirsips.dpdcart.com/subscriber/login?__dpd_cart=somehash",
   username: "username",
   password: "password"

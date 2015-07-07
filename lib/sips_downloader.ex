@@ -1,4 +1,13 @@
 defmodule SipsDownloader do
+  @moduledoc """
+  Downloads new ElixirSips episodes (subscription to ElixirSips required)
+
+  Credentials and other information needs to be specified in config/config.exs (see provided sample)
+
+  Execute:
+  iex> SipsDownloader.run()
+  """
+
   @download_directory Application.get_env(:episode_download, :directory)
 
   def run do

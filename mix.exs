@@ -9,7 +9,8 @@ defmodule SipsDownloader.Mixfile do
      elixir: "~> 1.0",
      description: description,
      package: package,
-     deps: deps]
+     deps: deps,
+     escript: escript]
   end
 
   defp description do
@@ -35,5 +36,9 @@ defmodule SipsDownloader.Mixfile do
     [{:httpoison, "~> 0.7"},
      {:sweet_xml, "~> 0.2"},
      {:html_entities, git: "https://github.com/martinsvalin/html_entities"}]
+  end
+
+  defp escript do
+    [main_module: SipsDownloader]
   end
 end

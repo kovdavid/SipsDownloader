@@ -1,0 +1,12 @@
+use Mix.Config
+
+config :episode_feed,
+  feed_url: "https://elixirsips.dpdcart.com/feed",
+  username: "username",
+  password: "password"
+
+config :episode_download,
+  directory: "/mnt/data/Videos/ElixirSips",
+  login_url: "login_url",
+  username: "username",
+  password: "password"

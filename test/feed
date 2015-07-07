@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Elixir Sips</title>
+        <link>https://elixirsips.dpdcart.com/</link>
+        <description/>
+        <pubDate>Wed, 01 Jul 2015 07:34:00 -0400</pubDate>
+        <managingEditor>josh.rubyist@gmail.com (Josh Adams)</managingEditor>
+        <language>en</language>
+        <copyright>Copyright 2015 Elixir Sips</copyright>
+        <generator>getdpd.com</generator>
+        <itunes:summary>ElixirSips is a twice-weekly small dose of knowledge related to the Elixir programming language.</itunes:summary>
+        <item>
+            <title><![CDATA[172 - Continuous Deployment]]></title>
+            <link>https://elixirsips.dpdcart.com/subscriber/post?id=821</link>
+            <description><![CDATA[
+                <div class="blog-entry">
+                    <div class="blog-content">
+                        <h1 style="">Episode 173: Deploying Phoenix Applications to Heroku</h1>
+                        <ul>
+                            <li style="box-sizing: border-box;">
+                                <a href="https://github.com/gjaldon/phoenix-static-buildpack" rel="noreferrer" style="">
+                                    gjaldon/phoenix-static-buildpack
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <h3>Attached Files</h3>
+                    <ul>
+                        <li>
+                            <a href="Link1_href">
+                                Link1_title.mp4
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Link2_href">
+                                Link2_title.mp4
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                ]]></description>
+            <guid isPermaLink="false">dpd-b49e1e04b7a47bee866c63837bb98c824e47225d</guid>
+            <pubDate>Wed, 01 Jul 2015 07:34:00 -0400</pubDate>
+            <enclosure url="https://elixirsips.dpdcart.com/feed/download/53340/173_Continuous_Deployment.mp4" length="53635882" type="video/mp4"/>
+        </item>
+        <item>
+            <title><![CDATA[173 - Continuous Deployment]]></title>
+            <link>https://elixirsips.dpdcart.com/subscriber/post?id=821</link>
+            <description><![CDATA[
+                <div class="blog-entry">
+                    <div class="blog-content">
+                        <h1 style="">Episode 173: Deploying Phoenix Applications to Heroku</h1>
+                        <ul>
+                            <li style="box-sizing: border-box;">
+                                <a href="https://github.com/gjaldon/phoenix-static-buildpack" rel="noreferrer" style="">
+                                    gjaldon/phoenix-static-buildpack
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <h3>Attached Files</h3>
+                    <ul>
+                        <li>
+                            <a href="Link3_href">
+                                Link3_title.mp4
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Link4_href">
+                                Link4_title.mp4
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                ]]></description>
+            <guid isPermaLink="false">dpd-b49e1e04b7a47bee866c63837bb98c824e47225d</guid>
+            <pubDate>Wed, 01 Jul 2015 07:34:00 -0400</pubDate>
+            <enclosure url="https://elixirsips.dpdcart.com/feed/download/53340/173_Continuous_Deployment.mp4" length="53635882" type="video/mp4"/>
+        </item>
+    </channel>
+</rss>

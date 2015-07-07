@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Elixir Sips</title>
+    <link>https://elixirsips.dpdcart.com/</link>
+    <description/>
+    <pubDate>Wed, 01 Jul 2015 07:34:00 -0400</pubDate>
+    <managingEditor>josh.rubyist@gmail.com (Josh Adams)</managingEditor>
+    <language>en</language>
+    <copyright>Copyright 2015 Elixir Sips</copyright>
+    <generator>getdpd.com</generator>
+    <itunes:summary>ElixirSips is a twice-weekly small dose of knowledge related to the Elixir programming language.</itunes:summary>
+    <item>
+      <title><![CDATA[173 - Continuous Deployment]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=821</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b49e1e04b7a47bee866c63837bb98c824e47225d</guid>
+      <pubDate>Wed, 01 Jul 2015 07:34:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/53340/173_Continuous_Deployment.mp4" length="53635882" type="video/mp4"/>
+    </item>
+    <item>
+      <title><![CDATA[172 - Arc File Uploads]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=819</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-36d06370d0b0796c87c6a6b56de85a2d66d780af</guid>
+      <pubDate>Sat, 27 Jun 2015 09:22:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/52978/172_Arc_File_Uploads.mp4" length="50023297" type="video/mp4"/>
+    </item>
+    <item>
+      <title><![CDATA[171 - Erlang 18 and Time]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=815</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9a2fa70dd941592721d62c52865406f54fb3af01</guid>
+      <pubDate>Wed, 24 Jun 2015 12:42:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/52879/171_Erlang_18_and_time.mp4" length="44483067" type="video/mp4"/>
+    </item>
+    <item>
+      <title><![CDATA[170 - Building a Slack Bot]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=810</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-2981c3e60955bf57de1ee08d61839371e44fff58</guid>
+      <pubDate>Fri, 19 Jun 2015 08:16:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/52658/170_Building_a_Slack_Bot.mp4" length="52942633" type="video/mp4"/>
+    </item>
+    <item>
+      <title><![CDATA[169 - Fractals, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=808</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-a6df8eb71e88c7098b7cd81e4c41a950cc402917</guid>
+      <pubDate>Wed, 17 Jun 2015 09:19:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/52580/169_Fractals_Part_2.mp4" length="41288894" type="video/mp4"/>
+    </item>
+    <item>
+      <title><![CDATA[168 - Continuous Integration]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=784</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e0e5332038b108ca27551d1198cd16e3e957b0b7</guid>
+      <pubDate>Thu, 04 Jun 2015 22:49:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/51837/168_Continuous_Integration.mp4" length="55146239" type="video/mp4"/>
+    </item>
+    <item>
+      <title><![CDATA[167 - Implementing Logo, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=777</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e11c101e940fdf135fbf4a0c74c9dae37d0df2cf</guid>
+      <pubDate>Tue, 02 Jun 2015 22:16:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/51757/167_Implementing_Logo_Part_2.mp4" length="62507095" type="video/mp4"/>
+      <itunes:subtitle>Building a renderer for our Logo interpreter.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[166 - Implementing Logo, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=776</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5446cc8d8c9ccd06bf00a85aec8ec4172950767e</guid>
+      <pubDate>Sat, 30 May 2015 21:08:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/51629/166_Implementing_Logo.mp4" length="87912447" type="video/mp4"/>
+      <itunes:subtitle>Implementing the Logo graphical programming language in Elixir with wxWidgets.  In this episode we just implement the underlying GenServer.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[165 - Accounting 101]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=774</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9c4e2499cd7e9d3da28502c6f053a96d6465fa88</guid>
+      <pubDate>Fri, 29 May 2015 00:07:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/51555/165_Accounting_101.mp4" length="127520819" type="video/mp4"/>
+      <itunes:subtitle>Modeling a double-entry ledger.  Terribly.  And then discussing what went wrong.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[164 - Fractals]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=761</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-156d0b4466f5b68ea81ece29014ae2b363c93538</guid>
+      <pubDate>Thu, 21 May 2015 23:37:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/51082/164_Fractals.mp4" length="59937576" type="video/mp4"/>
+      <itunes:subtitle>Exploring L Systems, on our way to generating fractals.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[163 - Building a Cron System, Part 3]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=758</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-845306ba77a2b1b2bbf126d526109caaecaa8278</guid>
+      <pubDate>Wed, 13 May 2015 20:01:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/50763/163_Building_a_Cron_System_Part_3.mp4" length="51185844" type="video/mp4"/>
+      <itunes:subtitle>Executing our jobs on their schedule.  Bonus intro to defdelegate and ExUnit's `@tag`s.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[162 - Building a Cron System, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=757</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b0aa6fa5d1b58b4a830006dc739b33b57dd29c30</guid>
+      <pubDate>Fri, 08 May 2015 07:58:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/50492/162_Building_a_Cron_System_Part_2.mp4" length="59694751" type="video/mp4"/>
+      <itunes:subtitle>Determining if a given time is matched by a Schedule.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[161 - Building a Cron System, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=755</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-ba144cb69da49b33a044f873ed42f458d38adabf</guid>
+      <pubDate>Sat, 02 May 2015 10:45:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/50111/161_Building_a_Cron_System_Part_1.mp4" length="82377888" type="video/mp4"/>
+      <itunes:subtitle>Building a parser for cron-style job definitions.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[160 - MultiDef]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=754</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-ec5082c3c81960e8fccc25c52bacea299baa1e2b</guid>
+      <pubDate>Thu, 30 Apr 2015 21:43:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/50045/160_MultiDef.mp4" length="8907589" type="video/mp4"/>
+      <itunes:subtitle>A less-verbose way to define multiple function clauses, courtesy of Dave Thomas.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[159 - Simple One for One Supervisors]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=753</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-db3cc80f439626ec5f75e295168642d6e07b3145</guid>
+      <pubDate>Sun, 26 Apr 2015 00:01:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/49876/159_Simple_One_for_One_Supervisors.mp4" length="30543141" type="video/mp4"/>
+      <itunes:subtitle>Getting a dynamically spawned process into a supervision tree to avoid orphaned processes, among other things.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[158 - SOAP with Detergentex]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=746</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-434ea42ad6c8d1d06d216710d1992d37f0d16066</guid>
+      <pubDate>Thu, 23 Apr 2015 16:06:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/49699/158_SOAP_with_Detergentex.mp4" length="19537071" type="video/mp4"/>
+      <itunes:subtitle>Using the `detergentex` library, which wraps the&#13;
+erlang `detergent` library, to interact with SOAP&#13;
+services in Elixir.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[157 - Playing with the Code Module Part 1 - eval_string]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=744</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d33a09418921d033fdcd444e29e2fc0731d2fc5b</guid>
+      <pubDate>Thu, 16 Apr 2015 21:28:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/49378/157_Playing_with_the_Code_Module_Part_1.mp4" length="16537210" type="video/mp4"/>
+      <itunes:subtitle>Exploring the standard library's Code module's `eval_string` function for fun and whatnot.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[156 - Interacting with Amazon's APIs with erlcloud]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=742</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4a46f97061c681389ed4c3f0c4ba43b69ee66e9b</guid>
+      <pubDate>Sat, 11 Apr 2015 18:54:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/49056/156_Interacting_with_Amazons_APIs_with_erlcloud.mp4" length="12474740" type="video/mp4"/>
+      <itunes:subtitle>A comically brief overview of erlcloud and evidence that it does, in fact, work for me.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[155 - OAuth2: Code Spelunking]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=740</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-da1d5954df47faa609204c615518928791d5da26</guid>
+      <pubDate>Thu, 09 Apr 2015 21:43:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/48970/155_OAuth2_Code_Spelunking.mp4" length="25653253" type="video/mp4"/>
+      <itunes:subtitle>A dig through Sonny Scroggins' example of integrating a Phoenix application with GitHub via his OAuth2 package.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[154 - inet]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=733</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-537587b7f62ed37c257b004087f8f868a78de9cd</guid>
+      <pubDate>Wed, 01 Apr 2015 18:55:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/48507/154_inet.mp4" length="11975626" type="video/mp4"/>
+      <itunes:subtitle>Basic TCP/IP interactions built into Erlang's kernel application for you.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[153 - Phoenix APIs and CORS]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=732</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c66db07a4b4754fb5c48623fcff2eaa9f7b69e3a</guid>
+      <pubDate>Tue, 31 Mar 2015 21:29:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/48470/153_Phoenix_APIs_and_CORS.mp4" length="49100750" type="video/mp4"/>
+      <itunes:subtitle>Building a basic API with Phoenix, and allowing remote domains to access it from the browser.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[152 - erlang_js]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=730</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e03c6c229e258d43db66ba923630a788e8e77fd8</guid>
+      <pubDate>Sat, 28 Mar 2015 15:57:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/48267/152_erlang_js.mp4" length="11272311" type="video/mp4"/>
+      <itunes:subtitle>Evaluating javascript on a SpiderMonkey interpreter and getting back Erlang terms.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[151 - System Information]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=729</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9424815bed16a09dc9cff6261233a9cef58b64cc</guid>
+      <pubDate>Sat, 28 Mar 2015 15:16:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/48263/151_system_information.mp4" length="35205887" type="video/mp4"/>
+      <itunes:subtitle>Exploring a running Erlang system using tools from the shell.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[150 - JInterface]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=720</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-45d429d6603673157a7cd2e6372304e55fc3ac58</guid>
+      <pubDate>Tue, 17 Mar 2015 22:24:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/47410/150_JInterface.mp4" length="60034947" type="video/mp4"/>
+      <itunes:subtitle>Talking to Elixir from Java</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[149 - ejabberd Packet Filters]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=719</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-151b5f5d5075d3202fb7487f331ba85ad0430a0e</guid>
+      <pubDate>Fri, 13 Mar 2015 21:05:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/47095/149_ejabberd_packet_filters.mp4" length="90033742" type="video/mp4"/>
+      <itunes:subtitle>Modifying messages inside of our ejabberd server, specifically - making everyone yell at each other.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[148 - ejabberd with Elixir]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=718</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4c30ef69eaac733e69473a1f4668fa3d7e4316a7</guid>
+      <pubDate>Thu, 12 Mar 2015 22:07:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/46992/148_ejabberd_with_elixir.mp4" length="70786177" type="video/mp4"/>
+      <itunes:subtitle>Getting started interacting with a battle-hardened XMPP chat server by writing Elixir modules for it.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[147 - webassembly]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=716</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e1751af797c4f1307c68f71bba0e00b9a4c1a79b</guid>
+      <pubDate>Fri, 06 Mar 2015 21:31:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/46447/147_webassembly.mp4" length="19534883" type="video/mp4"/>
+      <itunes:subtitle>Generate markup from blocks of elixir code, in the style of _why the lucky stiff's markaby.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[146 - mailman]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=714</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e803848bb958b19303529b4b071824ec69cba226</guid>
+      <pubDate>Tue, 03 Mar 2015 23:44:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/46199/146_mailman.mp4" length="30221227" type="video/mp4"/>
+      <itunes:subtitle>Easily send emails, parse emails, and verify email related features in your tests using this One Neat Trick.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[145_good_times]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=710</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-eb535897309f8344fcea73020a27ddcdd6cb4caf</guid>
+      <pubDate>Mon, 02 Mar 2015 14:23:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/46019/145_good_times.mp4" length="27878405" type="video/mp4"/>
+      <itunes:subtitle>An elixir library for trivially specifying relative dates and times.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[144 - Erlang's `calendar` module]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=705</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f49a420e1fe7a98b74b854396f7e4a443a2af0e7</guid>
+      <pubDate>Sun, 01 Mar 2015 14:31:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/45875/144_erlangs_calendar_module.mp4" length="15252186" type="video/mp4"/>
+      <itunes:subtitle>Interacting with Erlang's native date and time types.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[143 - phoenix_generator]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=703</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f41f618d39f1ecd5a003c8b2a3622c139a0c3554</guid>
+      <pubDate>Fri, 20 Feb 2015 20:10:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/45267/143_phoenix_generator.mp4" length="50345445" type="video/mp4"/>
+      <itunes:subtitle>A project that adds code generation to Phoenix for building models, controllers, templates, and channels.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[142 - escript]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=698</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-beaeb46bd3c742812b96552df89b9e2521c7599d</guid>
+      <pubDate>Tue, 17 Feb 2015 20:56:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/45000/142_escript.mp4" length="18252513" type="video/mp4"/>
+      <itunes:subtitle>Building quick 'binaries' after a fashion using Elixir's tooling.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[141 - Set]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=696</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-6908aae4d850ee73b81ef2994a2c98b1bb01488e</guid>
+      <pubDate>Wed, 11 Feb 2015 21:31:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/44740/141_Set.mp4" length="9924450" type="video/mp4"/>
+      <itunes:subtitle>Elixir ships with a Set behaviour, and a default HashSet implementation.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[140 - gopher]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=695</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-2dfbeab1b57c04c1b95df9c248db85dfdacaa7e4</guid>
+      <pubDate>Tue, 10 Feb 2015 21:35:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/44649/140_gopher.mp4" length="43261293" type="video/mp4"/>
+      <itunes:subtitle>Using `goma`, which is essentially WebMachine for The Internet Gopher Protocol, to build an elixir-powered gopher server.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[139 - hexdocs]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=693</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-87ef3d65563417c89fe166f34d92087bc9507d6c</guid>
+      <pubDate>Thu, 05 Feb 2015 21:17:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/44357/139_hexdocs.mp4" length="21481025" type="video/mp4"/>
+      <itunes:subtitle>Elixir's package manager, hex.pm, also provides a documentation server for elixir packages.  We'll see how to push documentation up.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[138 - Monitors and Links]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=692</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d9f0a938bff2bc69e69de65ad890d51af68ff229</guid>
+      <pubDate>Tue, 03 Feb 2015 20:37:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/44174/138_Monitors_and_Links.mp4" length="20881305" type="video/mp4"/>
+      <itunes:subtitle>Two of the core building blocks that the Erlang VM provides.  I'd neglected discussing them until now.  Oops.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[137 - Asterisk AGI with Elixir]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=691</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-7948abbc366cb961c1105a329949426ba607bfc4</guid>
+      <pubDate>Sun, 01 Feb 2015 13:02:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/44053/137_Asterisk_AGI_with_Elixir.mp4" length="19754302" type="video/mp4"/>
+      <itunes:subtitle>Building out an erlagi handler module in Elixir that interacts with a remote HTTP API.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[136 - Interfacing with Asterisk]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=688</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f2c8a30c643e48b247bbd02f326617ef9edb2feb</guid>
+      <pubDate>Sat, 31 Jan 2015 16:35:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/44016/136_Interfacing_with_Asterisk.mp4" length="48947940" type="video/mp4"/>
+      <itunes:subtitle>Using the `erlagi` application from Elixir to control the logic of an extension in a PBX system via Asterisk's AGI protocol.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[135 - Benchwarmer]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=680</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-bcc38614b2c6a209b36584b6ef895c758e4cd099</guid>
+      <pubDate>Thu, 22 Jan 2015 20:23:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/43632/135_Benchwarmer.mp4" length="9990777" type="video/mp4"/>
+      <itunes:subtitle>Another benchmarking tool, with a little bit less setup required.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[134 - Elastic Search with Tirexs]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=679</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d7d73146694311e2ba95ad13d61a3bcc80356e11</guid>
+      <pubDate>Mon, 19 Jan 2015 21:04:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/43510/134_Elastic_Search_with_Tirexs.mp4" length="47534482" type="video/mp4"/>
+      <itunes:subtitle>An easy way to interact with ElasticSearch.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[133 - Boltun: Postgres Listen Notify]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=678</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d1948a5a47138c34e463f8df906c62991c49037f</guid>
+      <pubDate>Sat, 17 Jan 2015 21:34:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/43373/133_Boltun_Postgres_Listen_Notify.mp4" length="38842550" type="video/mp4"/>
+      <itunes:subtitle>An Elixir package providing fantastically simple support for Postgres's built-in pubsub notifications.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[132 - Randomness in the Erlang VM]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=671</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e4ddf485e1b49e9a33f7e8e848edb265e5fd830c</guid>
+      <pubDate>Tue, 13 Jan 2015 20:39:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/43108/132_Randomness_in_the_Erlang_VM.mp4" length="28222024" type="video/mp4"/>
+      <itunes:subtitle>An exploration of where our randomness in Tetris went so horribly wrong, along with an exposition&#13;
+of how to think about which process your code is running in, and why that's important.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[131 - ExProf]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=669</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5e3092780d751537d1e6d8660cdc24ce5e09bab5</guid>
+      <pubDate>Wed, 07 Jan 2015 00:52:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/42734/131_ExProf.mp4" length="16985968" type="video/mp4"/>
+      <itunes:subtitle>An Elixir profiler, useful for finding where your program is spending its time.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[130 - Extris Web Client]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=663</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-624c28e2f55980e246502e699e1b07cf2b2c66b2</guid>
+      <pubDate>Sat, 27 Dec 2014 20:55:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/42296/130_Extris_Web_Client.mp4" length="96116572" type="video/mp4"/>
+      <itunes:subtitle>Using Phoenix's websockets to build a JavaScript canvas-based renderer and interaction module for Extris games running in processes on the server.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[129 - egd]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=662</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-1dcdd2c2d0b9773eed1bd43b88c26b6ea6973ae2</guid>
+      <pubDate>Mon, 22 Dec 2014 20:04:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/42006/129_egd.mp4" length="11969666" type="video/mp4"/>
+      <itunes:subtitle>A module in the Erlang Standard Library meant for doing basic graphics.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[128 - Managing Docker]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=659</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9f8495ceada8026321e6ff0a2853c31cfd9eb241</guid>
+      <pubDate>Sat, 20 Dec 2014 12:07:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/41830/128_Managing_Docker.mp4" length="28316104" type="video/mp4"/>
+      <itunes:subtitle>Programmatically interacting with Docker using Elixir and erldocker.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[127 - SSH Client Commands]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=657</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e233171442d1ae0754eacc4696e939640b5bfe20</guid>
+      <pubDate>Tue, 16 Dec 2014 21:03:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/41617/127_SSH_Client_Commands.mp4" length="8889160" type="video/mp4"/>
+      <itunes:subtitle>Becoming an SSH client and sending commands to an SSH server with Elixir.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[126 - Piping Into Elixir]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=654</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-a87e5eb201b180640c670543ba086c7b7d4a9f72</guid>
+      <pubDate>Tue, 09 Dec 2014 18:59:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/41110/126_Piping_Into_Elixir.mp4" length="7559584" type="video/mp4"/>
+      <itunes:subtitle>Handling typical unix-script style stdin and stdout pipes trivially from your Elixir scripts.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[125 - Dialyzer]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=645</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-ee99fa700b78a267fa1f8c55f8c01511456df35f</guid>
+      <pubDate>Wed, 03 Dec 2014 23:33:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/40788/125_Dialyzer.mp4" length="30691838" type="video/mp4"/>
+      <itunes:subtitle>Letting the computer (rather than logs or users) tell you when you've written crap code.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[124 - Typespecs]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=643</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c00cd6d759f761b0a0b742de63f9c29a96a6f699</guid>
+      <pubDate>Mon, 01 Dec 2014 07:59:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/40620/124_Typespecs.mp4" length="21023281" type="video/mp4"/>
+      <itunes:subtitle>Layering type information over your functions to aid users and static analysis tools, and to catch errors.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[123 - SDL Extris]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=638</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-927333737693cfb77a9706a96783b0b26e0a5224</guid>
+      <pubDate>Tue, 25 Nov 2014 20:44:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/40313/123_SDL_Extris.mp4" length="124180716" type="video/mp4"/>
+      <itunes:subtitle>Writing a renderer for the Tetris clone using SDL.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[122 - SDL]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=637</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e37cbee9e0fe7e7d1788f953d18f89b6aa406ce5</guid>
+      <pubDate>Sat, 22 Nov 2014 17:16:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/40192/122_SDL.mp4" length="34985286" type="video/mp4"/>
+      <itunes:subtitle>Using the SDL library for graphics from your Elixir programs.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[121 - WxExtris, Part 8]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=634</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4ee0aac740bec073ce1bb91ff3ff5929c5c828b7</guid>
+      <pubDate>Thu, 20 Nov 2014 08:16:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/40083/121_Wx_Extris_Part_8.mp4" length="41294207" type="video/mp4"/>
+      <itunes:subtitle>Test-driven implementation of clearing full lines off of the board.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[120 - WxExtris, Part 7]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=631</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-2f8286bdd29e9bb7d86e9676638a666c86a1ff8e</guid>
+      <pubDate>Fri, 14 Nov 2014 21:37:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/39929/120_Wx_Extris_Part_7.mp4" length="304754733" type="video/mp4"/>
+      <itunes:subtitle>Introducing collision detection and cleaning up the renderer / game board data structure.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[119 - WxExtris Part 6]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=627</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-6a46442be4571a93705954a582c5885a497ff685</guid>
+      <pubDate>Thu, 06 Nov 2014 23:22:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/39396/119_Wx_Extris_Part_6.mp4" length="76571057" type="video/mp4"/>
+      <itunes:subtitle>Introducing multiple processes into the game, and running the render loop separately from the game logic.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[118 - WxExtris Part 5]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=624</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f233bbfc33aa85e7832a11426671183d2d95dc55</guid>
+      <pubDate>Sun, 02 Nov 2014 23:18:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/38895/118_Wx_Extris_Part_5.mp4" length="41116020" type="video/mp4"/>
+      <itunes:subtitle>Defining the bottom game board boundary and providing the next shape when needed.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[117: Wx Extris Part 4 - Testing]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=622</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-811a3aa5d8966503cc49ed3c9757055a5bcf9586</guid>
+      <pubDate>Sun, 02 Nov 2014 21:23:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/38887/117_Wx_Extris_Part_4_Testing.mp4" length="85182614" type="video/mp4"/>
+      <itunes:subtitle>Writing some tests and implementing board boundary collision.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[116 - Wx Extris Part 3: Refactoring]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=619</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-fef031dde7b866f23950072bea13e731c590177f</guid>
+      <pubDate>Tue, 28 Oct 2014 21:04:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/38565/116_Wx_Extris_Part_3_Refactoring.mp4" length="79518078" type="video/mp4"/>
+      <itunes:subtitle>Turning a gigantic module into something a little more sensible and well-factored.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[115 - Wx Extris Continued]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=615</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9490d359b6f6480466e0d17fb0ceeb5025c70a7c</guid>
+      <pubDate>Fri, 24 Oct 2014 07:41:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/38248/115_Wx_Extris_Continued.mp4" length="49987779" type="video/mp4"/>
+      <itunes:subtitle>Making pieces fall and drawing the game board.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[114 - Wx Keyboard Events]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=613</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f3edf3f7c6d966f64791adb64d9e9cc6f3eca92a</guid>
+      <pubDate>Sun, 19 Oct 2014 10:20:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/38022/114_Wx_Keyboard_Events.mp4" length="44064160" type="video/mp4"/>
+      <itunes:subtitle>Handling keyboard input in a wx application.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[113 - Monitoring Network Traffic]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=610</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-7fe2b76fd43d84e2c2f074f626c6360885b422ab</guid>
+      <pubDate>Tue, 14 Oct 2014 19:11:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/37787/113_Monitoring_Network_Traffic.mp4" length="89438628" type="video/mp4"/>
+      <itunes:subtitle>Using libpcap from Elixir to see the stream of data passing across your computer's network interface.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[112 - Benchfella]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=608</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-aa0ea81d95cc77daf72a85eb9a4d7b2cc14e32c5</guid>
+      <pubDate>Fri, 10 Oct 2014 20:11:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/37589/112_Benchfella.mp4" length="24902572" type="video/mp4"/>
+      <itunes:subtitle>A pleasant-to-use benchmarking tool that includes graph output.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[111 - ExTwitter, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=604</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e8e5511796e5bc8f391ff65b4014adf8899e50f8</guid>
+      <pubDate>Sun, 05 Oct 2014 21:34:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/37189/111_ExTwitter_Part_2.mp4" length="39584710" type="video/mp4"/>
+      <itunes:subtitle>Streaming a Twitter search to the browser, because Phoenix Channels are meant to be paired with Elixir Streams, I promise.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[110 - ExTwitter]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=601</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c89075095b1d46d4a13e2d11958d01656caf19ae</guid>
+      <pubDate>Sun, 28 Sep 2014 20:31:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/36828/110_ExTwitter.mp4" length="54253955" type="video/mp4"/>
+      <itunes:subtitle>A library for interacting with the Twitter API, using standard requests or the streaming responses.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[109 - Socket]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=598</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-083ba8cf5050fa6ce7eeb0af9491f43cbcc0ff43</guid>
+      <pubDate>Tue, 23 Sep 2014 08:53:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/36422/109_Socket.mp4" length="34691938" type="video/mp4"/>
+      <itunes:subtitle>A pleasant abstraction around `gen_tcp`, `gen_udp`, `gen_sctp`, and `ssl`.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[108 - Release Upgrades]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=597</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c58f993cd7989a400eede8dd47a7af8d46a27d9f</guid>
+      <pubDate>Mon, 22 Sep 2014 08:24:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/36377/108_Release_Upgrades.mp4" length="37282901" type="video/mp4"/>
+      <itunes:subtitle>Upgrading an application in-place without losing the running state.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[107 - Phoenix Release]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=593</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-acf2a0f4cb183eb062a40a9598a9302c7a626f39</guid>
+      <pubDate>Tue, 16 Sep 2014 21:39:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/36087/107_Phoenix_Release.mp4" length="34405264" type="video/mp4"/>
+      <itunes:subtitle>Using `exrm` to build a release of the BEAM Toolbox webapp, for deployment.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[106 - Text Parsing]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=587</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b8ac8701972a04a0cbd6b0c60bf492c2737bbbe0</guid>
+      <pubDate>Wed, 03 Sep 2014 10:30:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/35165/106_Text_Parsing.mp4" length="91421933" type="video/mp4"/>
+      <itunes:subtitle>Building a parser for a custom text format.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[105 - Farkov Chain]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=583</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c665b632229ab6dc424973039ae636f48e4890be</guid>
+      <pubDate>Wed, 27 Aug 2014 21:50:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/34807/105_Farkov_Chain.mp4" length="74288781" type="video/mp4"/>
+      <itunes:subtitle>Generating killer marketing strategies with Elixir.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[104: Ruby to Elixir via BERT-RPC]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=580</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5111589d3b478af44902337fe7afe52576b60989</guid>
+      <pubDate>Fri, 22 Aug 2014 22:31:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/34586/104_Ruby_to_Elixir_Via_BERTRPC.mp4" length="23748946" type="video/mp4"/>
+      <itunes:subtitle>Trivial interop between Ruby and Elixir processes using BERT-RPC.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[103 - BEAM Toolbox, Episode 11]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=579</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5f317ac754021b12102cae9ba157bc2d809b5649</guid>
+      <pubDate>Fri, 22 Aug 2014 21:02:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/34583/103_BEAM_Toolbox_Part_11.mp4" length="39287945" type="video/mp4"/>
+      <itunes:subtitle>Switching to the expression style in Ecto, and using Phoenix's new routing helpers because we must.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[102 - BEAM Toolbox, Episode 10]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=575</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-91f1b312424926a9a9a6b2426cb0a927dbd78102</guid>
+      <pubDate>Thu, 14 Aug 2014 21:56:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/34186/102_BEAM_Toolbox_Part_10.mp4" length="40406021" type="video/mp4"/>
+      <itunes:subtitle>Building a projects listing page, and reviewing some changes to the toolbox.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[101 - BEAM Toolbox, Part 9]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=573</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f81f297bd0350327a6e0c1faced14ab6811363a3</guid>
+      <pubDate>Tue, 12 Aug 2014 22:17:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/34074/101_BEAM_Toolbox_Part_9.mp4" length="90316084" type="video/mp4"/>
+      <itunes:subtitle>Building a CLI utility for categorizing our projects as a Mix task.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[100 - BEAM Toolbox, Part 8]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=570</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-585b5ae36896368f777ef3195edb016d1ead6e91</guid>
+      <pubDate>Sat, 09 Aug 2014 19:06:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/33917/100_BEAM_Toolbox_Part_8.mp4" length="65546843" type="video/mp4"/>
+      <itunes:subtitle>Making the BEAM Toolbox a bit more useful, including adding in Disqus support.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[099 - BEAM Toolbox, Part 7]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=568</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-02f5a698c7d6d087cdb5cd18d3b5cdcf85e7363b</guid>
+      <pubDate>Wed, 06 Aug 2014 21:13:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/33759/099_BEAM_Toolbox_Part_7.mp4" length="60507224" type="video/mp4"/>
+      <itunes:subtitle>Managing relationships in Ecto, and integrating Ecto into a Phoenix application.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[098 - Contributing to Open Source]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=565</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-2fc64308b007410f03d937162254b10973ab220b</guid>
+      <pubDate>Fri, 01 Aug 2014 21:26:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/33448/098_Contributing_to_Open_Source.mp4" length="160452532" type="video/mp4"/>
+      <itunes:subtitle>In which we contribute to the elixir codebase and open a pull request.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[097 - BEAM Toolbox, Part 6]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=564</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-49e8f9751e2d5a3208fb6ffb842a523e7f46162c</guid>
+      <pubDate>Fri, 01 Aug 2014 20:07:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/33446/097_BEAM_Toolbox_Part_6.mp4" length="35341493" type="video/mp4"/>
+      <itunes:subtitle>Resurrecting the Toolbox with an Ecto-based data layer from scratch, and synchronizing data with the Hex API.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[096 - Arduino Motor Driver]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=560</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-302ae6d30a495321152d507c8b317be4d435d738</guid>
+      <pubDate>Thu, 24 Jul 2014 13:30:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/32817/096_Arduino_Motor_Driver.mp4" length="65293517" type="video/mp4"/>
+      <itunes:subtitle>An unusually formatted episode discussing an ad hoc serial protocol for controlling an Arduino Motor Controller.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[095 - Link Extractor, Part 4]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=558</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5a370d8efd28e8e2cc174a2b2449aad11fac37f1</guid>
+      <pubDate>Sat, 19 Jul 2014 18:13:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/32403/095_Link_Extractor_Part_4.mp4" length="84771401" type="video/mp4"/>
+      <itunes:subtitle>Fixing some bugs and setting up a Zapier integration.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[094 - Link Extractor, Part 3]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=555</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-883ff61ee202bcb7ba7da9fbae418e4bd3ae21a9</guid>
+      <pubDate>Wed, 16 Jul 2014 08:18:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/32021/094_Link_Extractor_Part_3.mp4" length="112006576" type="video/mp4"/>
+      <itunes:subtitle>Deploying our application to a VPS from scratch and pushing in our first message.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[093 - Link Extractor, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=551</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d9706ecb2eddc2f1265977c3767132d703e63b14</guid>
+      <pubDate>Sat, 12 Jul 2014 10:07:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/31755/093_Link_Extractor_Part_2.mp4" length="78432567" type="video/mp4"/>
+      <itunes:subtitle>Using Phoenix to build an HTTP API for posting links into the system, and a page to view posted links.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[092 - Link Extractor]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=549</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4d7756a95e58a7151b033edbeb9ac9386df4d36e</guid>
+      <pubDate>Wed, 09 Jul 2014 18:31:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/31602/092_Link_Extractor.mp4" length="98368285" type="video/mp4"/>
+      <itunes:subtitle>Using poolboy to build a service for extracting data from a set of links and collecting them into memory for viewing later.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[091 - Test Coverage]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=546</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-180544202457b1d326bf80666b28af22046a3e75</guid>
+      <pubDate>Sun, 06 Jul 2014 20:02:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/31412/091_Test_Coverage.mp4" length="19663748" type="video/mp4"/>
+      <itunes:subtitle>Exploring test coverage report generation, using both Erlang's `cover` application and the Coverex tool.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[090 - Websockets Terminal]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=544</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-0fdc55a7a7013258f5a35f37fa503d09e73e0356</guid>
+      <pubDate>Thu, 03 Jul 2014 23:44:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/31370/090_Websockets_Terminal.mp4" length="117951092" type="video/mp4"/>
+      <itunes:subtitle>Taking advantage of Phoenix's native websockets support to build an in-browser bash terminal proxy.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[089 - Protocol Buffers]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=542</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b02d6c3df00731d250faf39354fe4a7095f9ee04</guid>
+      <pubDate>Sun, 29 Jun 2014 19:39:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/31181/089_Protocol_Buffers.mp4" length="29666829" type="video/mp4"/>
+      <itunes:subtitle>Easy cross-language serialization and deserialization of data structures using Google's Protocol Buffers and exprotobuf.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[088 - Porcelain]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=540</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5798eed6be9e1bf456e98152b373fc342ec95a2b</guid>
+      <pubDate>Wed, 25 Jun 2014 19:32:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/31006/088_Porcelain.mp4" length="75945854" type="video/mp4"/>
+      <itunes:subtitle>External Process interaction like the Port module but both simpler and more powerful.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[087 - WordCloud]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=536</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b3f1b7c7e02310104d87c390dddbf98cd266e7a7</guid>
+      <pubDate>Fri, 20 Jun 2014 22:03:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/30799/087_WordCloud.mp4" length="79066357" type="video/mp4"/>
+      <itunes:subtitle>Using Elixir to do a word frequency count on a corpus of text and generate input for a WordCloud generator.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[086 - put_in and get_in]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=534</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4b8e26be7785f03eafdc51bb0c0f47c64e8351ed</guid>
+      <pubDate>Wed, 18 Jun 2014 20:13:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/30715/086_put_in_and_get_in.mp4" length="53123055" type="video/mp4"/>
+      <itunes:subtitle>(and friends) Easy access to deeply nested data structures.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[085 - Apex]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=532</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-12ef837138f05aff4c38e8236d52abdde5768a2a</guid>
+      <pubDate>Fri, 13 Jun 2014 20:35:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/30472/085_Apex.mp4" length="12695136" type="video/mp4"/>
+      <itunes:subtitle>Awesome Print for Elixir.  An easy way to get insight into unfamiliar data structures.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[084 - PCM Audio]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=529</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-a3f00fa2222695d5201010c1cfe11d6d636da20a</guid>
+      <pubDate>Wed, 11 Jun 2014 20:40:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/30289/084_PCM_Audio.mp4" length="25994955" type="video/mp4"/>
+      <itunes:subtitle>Generating PCM Audio and making some noise</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[083 - pg2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=526</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-47d220d5ef4b985a9f07078a20d08a8462c21181</guid>
+      <pubDate>Sat, 07 Jun 2014 14:49:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/30087/083_pg2.mp4" length="42390982" type="video/mp4"/>
+      <itunes:subtitle>A replacement for the `pg` module that has some better semantics for distribution.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[082 - Protocols]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=525</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-dcfd4eac814073147a5516503376089f77c5a9f8</guid>
+      <pubDate>Thu, 05 Jun 2014 20:04:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/29979/082_Protocols.mp4" length="29012469" type="video/mp4"/>
+      <itunes:subtitle>A fantastic method for polymorphism in Elixir.  Pairs well with structs.  Slight oaky flavor.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[081 - EEx]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=520</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-43db540c7570c6c7ed3c617a99240f0bbb1f243a</guid>
+      <pubDate>Sat, 31 May 2014 20:37:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/29634/081_EEx.mp4" length="25559961" type="video/mp4"/>
+      <itunes:subtitle>Elixir's built-in templating language, useful for embedding Elixir code inside of a string.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[080 - erlubi]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=518</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-8132ce5c5d34243a225e1c82697de23d3bc624b9</guid>
+      <pubDate>Tue, 27 May 2014 21:26:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/29197/080_erlubi.mp4" length="111109006" type="video/mp4"/>
+      <itunes:subtitle>A client for the Ubigraph visualization server, and an easy way to view a BEAM application's supervision tree in 3D.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[079 - Tasks]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=516</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-87e63ba90c98728379af851919648fe07b7a40a6</guid>
+      <pubDate>Fri, 23 May 2014 20:01:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/28968/079_Tasks.mp4" length="39406244" type="video/mp4"/>
+      <itunes:subtitle>An abstraction for computing a value in the background and receiving the value later.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[078 - Agents]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=514</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b2e65fcb8b6c7f0ab5b36a4d9ce38912d250ee4d</guid>
+      <pubDate>Wed, 21 May 2014 08:41:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/28788/078_Agents.mp4" length="32242370" type="video/mp4"/>
+      <itunes:subtitle>A simple abstraction around state.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[077 - Exceptions and Errors]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=511</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-0baf24d09f1946547bcbbd3cb58b3bcee0a4472d</guid>
+      <pubDate>Sat, 17 May 2014 19:30:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/28573/077_Exceptions_and_Errors.mp4" length="16774270" type="video/mp4"/>
+      <itunes:subtitle>Manually raising exceptions, handling them, defining your own, and using them idiomatically.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[076 - Streams]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=510</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4553c702f0b65282255299c8889144327e829525</guid>
+      <pubDate>Thu, 15 May 2014 19:15:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/28409/076_Streams.mp4" length="21677497" type="video/mp4"/>
+      <itunes:subtitle>A brief overview of Elixir's 'lazy, composable Enumerables'</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[075 - DETS]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=508</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4b31583fdd92d59e040252cb3d5b1570e62e6858</guid>
+      <pubDate>Mon, 12 May 2014 20:17:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/28019/075_DETS.mp4" length="33191111" type="video/mp4"/>
+      <itunes:subtitle>A disk-based version of ETS with a few restrictions.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[074 - ETS]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=506</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f152d5bdd1d5be150249695d77b4fca5a394c08e</guid>
+      <pubDate>Thu, 08 May 2014 20:57:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/27461/074_ETS.mp4" length="52146226" type="video/mp4"/>
+      <itunes:subtitle>Erlang term storage - a queryable database for your processes to store terms in.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[073 - Process Dictionaries]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=502</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f3f23a2777bb286c18290efd430e60f228c7e6ed</guid>
+      <pubDate>Thu, 01 May 2014 18:39:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/26963/073_Process_Dictionaries.mp4" length="13883178" type="video/mp4"/>
+      <itunes:subtitle>Process-local state that you likely should never use :)</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[072 - WxCalc, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=501</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d95d596e71b591965a5a2bcb28620aabd0ad89e1</guid>
+      <pubDate>Wed, 30 Apr 2014 23:48:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/26903/072_WxCalc_Part_2.mp4" length="169841749" type="video/mp4"/>
+      <itunes:subtitle>Implementing our calculator's logic and wiring it up to wx events.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[071 - Wx]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=497</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-a9cc177724158a781f328e595c039bb8bc2b2f07</guid>
+      <pubDate>Fri, 25 Apr 2014 21:20:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/26319/071_Wx.mp4" length="65307579" type="video/mp4"/>
+      <itunes:subtitle>Building a GUI calculator using Erlang's native wx bindings.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[070 - Hex]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=495</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e0cb5d7e0131590b491d2c9275de535b803756c8</guid>
+      <pubDate>Thu, 24 Apr 2014 18:56:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/26251/070_Hex.mp4" length="21922452" type="video/mp4"/>
+      <itunes:subtitle>Elixir's new package manager.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[069 - Observer]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=492</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c28fdc36d4fe5fd5474dff2c71630e66287db5f6</guid>
+      <pubDate>Fri, 18 Apr 2014 21:54:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/25916/069_Observer.mp4" length="28586014" type="video/mp4"/>
+      <itunes:subtitle>A graphical tool for inspection of a running Erlang/Elixir system and its processes.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[068 - Port]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=491</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e72209bdb29b4bff0ac78eb7ca979cc27c412b48</guid>
+      <pubDate>Wed, 16 Apr 2014 22:17:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/25797/068_Port.mp4" length="20078607" type="video/mp4"/>
+      <itunes:subtitle>Interacting with external programs as if they were simple processes.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[067 - Deploying to Heroku]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=486</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-6ebee8d2f0b706ca970a4367194f0127231575fc</guid>
+      <pubDate>Fri, 11 Apr 2014 23:08:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/25396/067_Deploying_to_Heroku.mp4" length="51409095" type="video/mp4"/>
+      <itunes:subtitle>Using HashNuke's Elixir buildpack for Heroku to deploy BEAM Toolbox.  Also, a brief intro to ExConf.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[066 - Plug.Static]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=484</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4d63be468edc18b13f5aa6e8cb8dab4a7bf8262f</guid>
+      <pubDate>Thu, 10 Apr 2014 08:48:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/25289/066_Plug_Static.mp4" length="14239823" type="video/mp4"/>
+      <itunes:subtitle>Serving static files without an opaque and complicated-looking cowboy handler.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[065 - SSH]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=482</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-a658ffc1634b8bc86668e72bd37bfd6f5e73e03d</guid>
+      <pubDate>Sun, 06 Apr 2014 22:29:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/24983/065_SSH.mp4" length="10227953" type="video/mp4"/>
+      <itunes:subtitle>Using Erlang's `ssh` module to provide ssh access to a shell running your Elixir code.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[064 - Digraph]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=481</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d99967a1059c652a616cf9921718fd67080257fb</guid>
+      <pubDate>Sun, 06 Apr 2014 19:48:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/24982/064_Digraph.mp4" length="64907453" type="video/mp4"/>
+      <itunes:subtitle>A look at using the `digraph`module from the Erlang standard library to implement pathfinding on a map.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[063 - Tracing]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=474</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4e61ce171d447be49260aa7e2b150fa18f95897e</guid>
+      <pubDate>Thu, 27 Mar 2014 21:02:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/24160/063_Tracing.mp4" length="19704255" type="video/mp4"/>
+      <itunes:subtitle>A quick tour of the `dbg` module from Erlang, and its tracing features.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[062 - Quickie Synth]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=472</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-0660032706dba19d1e9f0cf08d7cb3e37a21a744</guid>
+      <pubDate>Tue, 25 Mar 2014 22:44:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/24016/062_Quickie_Synth.mp4" length="49137361" type="video/mp4"/>
+      <itunes:subtitle>Using processes, gs, and shelling out to `sox` to build an Elixir-based synthesizer module.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[061 - Plug]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=469</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-36c61c1cf1777823ac10c7606ccd7b5f75a67920</guid>
+      <pubDate>Sat, 22 Mar 2014 19:20:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/23806/061_Plug.mp4" length="36939911" type="video/mp4"/>
+      <itunes:subtitle>Exploring Elixir's library for building composable web application modules.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[060 - New Style Comprehensions]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=467</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-7322184862f713f43c6c8395259fc337d9153c22</guid>
+      <pubDate>Tue, 18 Mar 2014 22:32:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/23473/060_New_Style_Comprehensions.mp4" length="15616663" type="video/mp4"/>
+      <itunes:subtitle>Elixir's list comprehensions have been entirely revamped, and made much more general.  In this episode, we cover new style comprehensions and show off a few tricks they have that older style list comprehensions lacked.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[059 - Custom Mix Tasks]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=465</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-73820b197f2fe7c911ffd1a6e6327bbef4ac578f</guid>
+      <pubDate>Sun, 16 Mar 2014 22:35:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/23308/059_Custom_Mix_Tasks.mp4" length="15020905" type="video/mp4"/>
+      <itunes:subtitle>Looking at building a basic mix task, and how you can go about testing it.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[058 - BEAM Toolbox, Part 5]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=462</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-cce33fba9f7149ccba921db7d3dc8d2e751d6956</guid>
+      <pubDate>Thu, 13 Mar 2014 00:14:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/23020/058_BEAM_Toolbox_Part_5.mp4" length="40158815" type="video/mp4"/>
+      <itunes:subtitle>Building a module that caches our GitHub data for a given project.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[057 - BEAM Toolbox, Part 4]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=461</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-bb321df4c9d144a7344f2fdb61fb74694b61d882</guid>
+      <pubDate>Sun, 09 Mar 2014 21:59:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/22878/057_BEAM_Toolbox_Part_4.mp4" length="102342445" type="video/mp4"/>
+      <itunes:subtitle>Moving our ad-hoc, tuple-based data layer to one powered by maps/structs.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[056 - Migrating Records To Maps]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=460</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-0ef3f8fd496568b10e0d0d39c5d5e8934c0d3e6e</guid>
+      <pubDate>Sun, 09 Mar 2014 21:00:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/22875/056_Migrating_Records_To_Maps.mp4" length="20047811" type="video/mp4"/>
+      <itunes:subtitle>Converting a production use of Records to use maps instead.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[055 - Maps, Part 2: Structs]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=454</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d1041c309aec57eed32a2ddae004a25b76051172</guid>
+      <pubDate>Fri, 28 Feb 2014 08:47:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/22377/055_Maps_Part_2.mp4" length="16533619" type="video/mp4"/>
+      <itunes:subtitle>Introducing structs and demonstrating how they can take the place of public Records.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[054 - Maps, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=453</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4bf94deea259915d3c357b7588820bc5b3318f66</guid>
+      <pubDate>Thu, 27 Feb 2014 21:59:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/22354/054_Maps_Part_1.mp4" length="14723611" type="video/mp4"/>
+      <itunes:subtitle>An introduction to maps, a new feature in Erlang R17 and Elixir 0.13</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[053 - BEAM Toolbox, Part 3]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=448</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-55b3631f3c7a1da543dc917e68b1ae622dcce5d2</guid>
+      <pubDate>Thu, 20 Feb 2014 09:10:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/21885/053_BEAM_Toolbox_Part_3.mp4" length="56402425" type="video/mp4"/>
+      <itunes:subtitle>Adding an integration testing layer that drives a browser using Hound, extracting a Controller helper, and adding Project pages.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[052 - BEAM Toolbox, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=444</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-cc87a225650e38932c583a9c9a6f14a40dba3e78</guid>
+      <pubDate>Sat, 15 Feb 2014 09:37:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/21529/052_BEAM_Toolbox_Part_2.mp4" length="87357040" type="video/mp4"/>
+      <itunes:subtitle>Further work on the data layer, and introducing defoverridable.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[051 - BEAM Toolbox, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=442</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b5a31a1c01922facab2dd79afa8f1dcd8f78d168</guid>
+      <pubDate>Wed, 12 Feb 2014 08:58:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/21303/051_BEAM_Toolbox_Part_1.mp4" length="44243996" type="video/mp4"/>
+      <itunes:subtitle>Introducing BEAM Toolbox and starting work on the data layer.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[050 - Markdown Server, Part 5]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=439</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-210f6831832d5b498f195a3b100c52c0f1373294</guid>
+      <pubDate>Thu, 06 Feb 2014 19:27:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/20836/050_Markdown_Server_Part_5.mp4" length="30805817" type="video/mp4"/>
+      <itunes:subtitle>Accepting environment variables for configuration and filtering out files we don't want.  Plus, a call to action to build BEAM Toolbox.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[049 - Markdown Server, Part 4]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=434</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-6a2c146afddf3c6d0aac75a41537080b0fbd0988</guid>
+      <pubDate>Sat, 01 Feb 2014 16:35:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/20484/049_Markdown_Server_Part_4.mp4" length="54727566" type="video/mp4"/>
+      <itunes:subtitle>Building a poor man's livereload system using inotify and websockets.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[048 - Markdown Server, Part 3]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=433</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-8756e2da33bdff1224a927bb6725375ee4bf3065</guid>
+      <pubDate>Fri, 31 Jan 2014 21:35:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/20398/048_Markdown_Server_Part_3.mp4" length="60178041" type="video/mp4"/>
+      <itunes:subtitle>Using Eml for markup, and bringing in Compassand Zurb Foundation for styles.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[047 - Markdown Server, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=429</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9eecb23975d8d108aea78a6cf6fac511e602b68d</guid>
+      <pubDate>Fri, 24 Jan 2014 23:20:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/20044/047_Markdown_Server_Part_2.mp4" length="58805502" type="video/mp4"/>
+      <itunes:subtitle>Writing an integration test suite and dealing with macros for the first time.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[046 - Markdown Server, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=428</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-13698c101c78abe21fabecbde8e98ad865cd2c93</guid>
+      <pubDate>Fri, 24 Jan 2014 19:35:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/20035/046_Markdown_Server_Part_1.mp4" length="50239395" type="video/mp4"/>
+      <itunes:subtitle>Building a HTTP Server to render Markdown files, using the Phoenix web framework.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[045 - Distribution, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=424</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5b77eca5d0443e39ab5c5e4e495e4879af7daba9</guid>
+      <pubDate>Sat, 18 Jan 2014 10:02:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/19508/045_Distribution_Part_2.mp4" length="17146460" type="video/mp4"/>
+      <itunes:subtitle>Sending messages to remote machines, and Joe Armstrong's favorite program.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[044 - Distribution]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=422</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-db9a5eb0b78fe97ab2c8430979a97433124b2f26</guid>
+      <pubDate>Mon, 13 Jan 2014 21:55:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/19294/044_Distribution.mp4" length="8149473" type="video/mp4"/>
+      <itunes:subtitle>Sending messages from one Elixir node to another.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[043 - Releases With Relex]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=418</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-d133276fb29a92296ec17f38cec53dfabe6816a6</guid>
+      <pubDate>Thu, 09 Jan 2014 07:46:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/19102/043_Releases_With_Relex.mp4" length="26126079" type="video/mp4"/>
+      <itunes:subtitle>Making your Elixir application redistributable using Erlang releases.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[042 - File, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=417</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c00b5d5fe3f67a42fa32b512cd5d481b72a52365</guid>
+      <pubDate>Tue, 07 Jan 2014 09:25:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/19023/042_File_Part_2.mp4" length="22060523" type="video/mp4"/>
+      <itunes:subtitle>In today's episode, we cover the second half of the File module.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[041 - File, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=414</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-499a0a8b85df049ab85293a4be963e699eb25287</guid>
+      <pubDate>Thu, 02 Jan 2014 08:52:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/18727/041_File_Part_1.mp4" length="19767500" type="video/mp4"/>
+      <itunes:subtitle>An overview of the first portion of the File module in the standard library.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[040 - Bitwise]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=413</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-00de1169c5f8066cb354b4ad6d3872accb638452</guid>
+      <pubDate>Thu, 02 Jan 2014 08:10:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/18722/040_Bitwise.mp4" length="12806178" type="video/mp4"/>
+      <itunes:subtitle>In this episode, we look at manipulating bits.  This is typically useful for wire protocols.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[039 - Binaries: Deconstructing an IP Packet]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=411</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-72bb8b378b48b17690f5e00ea5abc5761354b5b5</guid>
+      <pubDate>Fri, 27 Dec 2013 09:31:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/18433/039_Binaries_Deconstructing_an_IP_Packet.mp4" length="38078613" type="video/mp4"/>
+      <itunes:subtitle>In this episode, we use what we know about binary deconstruction to build a library to parse IP packets.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[038 - Binaries: Deconstructing and Constructing]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=409</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-6b3e01c68dd4f87245ff2e5213242d90346c47f4</guid>
+      <pubDate>Thu, 26 Dec 2013 07:49:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/18364/038_Binaries_Deconstructing_And_Constructing.mp4" length="11601407" type="video/mp4"/>
+      <itunes:subtitle>Erlang provides extremely good tools for handling binaries, and Elixir benefits from them as well.  In this episode, we look at how to construct and deconstruct binaries quickly.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[037 - ExLager]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=405</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-56d26d6d1fbb5a7950dc729092911cdec2d9ac05</guid>
+      <pubDate>Thu, 19 Dec 2013 08:48:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/18020/037_ExLager.mp4" length="30481784" type="video/mp4"/>
+      <itunes:subtitle>Fantastic logging for your applications.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[036 - Weber, Part 2 - Performance]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=404</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-261731b9e92d9ee9a3c86ff411b1a2537603fe92</guid>
+      <pubDate>Tue, 17 Dec 2013 16:25:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/17909/036_Weber_Part_2.mp4" length="107377146" type="video/mp4"/>
+      <itunes:subtitle>Building a simple cache, and a performance comparison with node.js and ruby.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[035 - Weber]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=399</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-f2cb043205443522542977a84f173d74a5095b35</guid>
+      <pubDate>Thu, 12 Dec 2013 08:45:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/17530/035_Weber.mp4" length="90534522" type="video/mp4"/>
+      <itunes:subtitle>Building a basic web app with the Weber MVC framework.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[034 - Elixiak]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=398</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-65b2f632050407fd4525404b1282c579d6ed14b2</guid>
+      <pubDate>Mon, 09 Dec 2013 02:28:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/17369/034_Elixiak.mp4" length="21966124" type="video/mp4"/>
+      <itunes:subtitle>Introduction to Elixiak - an ActiveRecord-like wrapper for Riak in Elixir.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[033 - Pry]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=396</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-7cfb53216e3d6f1319bec0f1f878739e03dca03e</guid>
+      <pubDate>Sun, 08 Dec 2013 18:59:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/17312/033_Pry.mp4" length="7674265" type="video/mp4"/>
+      <itunes:subtitle>Using IEx.pry to inspect and debug a running process.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[032 - Command Line Scripts]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=392</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-a71b04315dd935bbc978fc0c48b2e6c4f8a8a663</guid>
+      <pubDate>Tue, 03 Dec 2013 08:13:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/16426/032_Command_Line_Scripts.mp4" length="39267885" type="video/mp4"/>
+      <itunes:subtitle>Basic Introduction to writing Elixir scripts that can be invoked and passed arguments from the command line.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[031 - TCP Servers]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=389</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-ef4d8f3f5fc91b2757f9db478454889a62b1f2be</guid>
+      <pubDate>Thu, 28 Nov 2013 10:07:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/16174/031_TCP_Servers.mp4" length="15492575" type="video/mp4"/>
+      <itunes:subtitle>Building network servers in Elixir using Erlang's `:gen_tcp` module.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[030 - ExActor]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=387</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b591602d8d685dfc5b65373c9eec81be2ba3533e</guid>
+      <pubDate>Tue, 26 Nov 2013 09:05:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/16076/030_ExActor.mp4" length="24420504" type="video/mp4"/>
+      <itunes:subtitle>Simplified generation of generic servers.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[029 - HTTP Clients]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=382</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9fce90acc12b203cf01876bb05427ee108630e6e</guid>
+      <pubDate>Thu, 21 Nov 2013 09:25:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/15819/029_HTTP_Clients.mp4" length="35716942" type="video/mp4"/>
+      <itunes:subtitle>A survey of the HTTP Client landscape.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[028 - Parsing XML]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=380</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4332e4d1b7b33b371e7b0d86f83862092c9f0b77</guid>
+      <pubDate>Tue, 19 Nov 2013 07:53:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/15730/028_Parsing_XML.mp4" length="48799155" type="video/mp4"/>
+      <itunes:subtitle>A glimpse into XML parsing in Elixir, by way of interoperating with an Erlang module.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[027 - Dict, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=377</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-8fdb7bb8bce5bdf73f15457057d88bdc801e4374</guid>
+      <pubDate>Thu, 14 Nov 2013 19:14:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/15383/027_Dict_Part_2.mp4" length="20909659" type="video/mp4"/>
+      <itunes:subtitle>A brief overview of the second portion of the Dict module.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[026 - Dict, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=376</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b2055c1c5f75983643083fdaeb9f6a4ed25a4a5c</guid>
+      <pubDate>Thu, 14 Nov 2013 19:10:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/15379/026_Dict_Part_1.mp4" length="27026102" type="video/mp4"/>
+      <itunes:subtitle>A brief overview of the first portion of the Dict module.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[025 - Ecto, Part 2: Dwitter]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=372</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-290d62fd9b993b10aa73be0786505f57c4c9775e</guid>
+      <pubDate>Thu, 07 Nov 2013 22:20:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/14919/025_Ecto_Part_2_Dwitter.mp4" length="43367334" type="video/mp4"/>
+      <itunes:subtitle>Overhauling our Dynamo webapp to use Ecto for its persistence layer.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[024 - Ecto, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=370</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-77f9f7e016cf01cd0868b6c56d03c0ff9e7816de</guid>
+      <pubDate>Tue, 05 Nov 2013 15:07:00 -0500</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/14801/024_Ecto_Part_1.mp4" length="46383729" type="video/mp4"/>
+      <itunes:subtitle>A brief introduction to using Ecto with Postgres for persistence.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[023 - OTP, Part 5: Supervisors and Persistent State]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=367</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-9ba61b7503e2a2d8c97d21be0bdc943e94e2818e</guid>
+      <pubDate>Fri, 01 Nov 2013 22:41:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/14512/023_OTP_Part_5_Supervisors_and_Persistent_State.mp4" length="54963851" type="video/mp4"/>
+      <itunes:subtitle>Making a supervised process's state live through a crash.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[022 - OTP, Part 4: Supervisors]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=363</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4e48d92ef15a55278c611d3898036214ac98efb4</guid>
+      <pubDate>Tue, 29 Oct 2013 08:00:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/12346/022_OTP_Part_4_Supervisors.mp4" length="45927299" type="video/mp4"/>
+      <itunes:subtitle>Exploring OTP's Supervisors, and how they help us recover from crashes in processes.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[021 - ZeldaCat, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=362</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-676d292488550356f768d103eecdf164e1ad32ca</guid>
+      <pubDate>Fri, 25 Oct 2013 19:05:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/12321/021_ZeldaCat_Part_2.mp4" length="33924155" type="video/mp4"/>
+      <itunes:subtitle>We build a couple more components in the ZeldaCat game for more practice with GenEvent</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[020 - OTP, Part 3 - GenEvent]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=361</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4c1da796dbd7b1ecb3709e70212dd3f3b934a90c</guid>
+      <pubDate>Wed, 23 Oct 2013 12:38:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/8379/020_OTP_Part_3_GenEvent.mp4" length="41968153" type="video/mp4"/>
+      <itunes:subtitle>An introduction to OTP's GenEvent</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[019 - Enum, Part 3]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=359</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-c393e93f2dcb42019ba8c0c2bc7b8aa5e9976141</guid>
+      <pubDate>Mon, 21 Oct 2013 11:02:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5399/019_Enum_Part_3.mp4" length="28923190" type="video/mp4"/>
+      <itunes:subtitle>Wrapping up the Enum module</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[018 - Enum, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=350</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-0f8303cdbc9ee941521caaf7b76731da0b3d4d19</guid>
+      <pubDate>Tue, 15 Oct 2013 23:06:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5148/018_Enum_Part_2.mp4" length="19118037" type="video/mp4"/>
+      <itunes:subtitle>A brief overview of the second portion of the Enum module from the standard library</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[017 - Enum, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=348</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-8049517948868c47e602daa299edb1dadd758da3</guid>
+      <pubDate>Sun, 13 Oct 2013 22:01:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5068/017_Enum_Part_1.mp4" length="20298860" type="video/mp4"/>
+      <itunes:subtitle>A brief overview of the first portion of the Enum module from the standard library</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[016 - Pipe Operator]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=344</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-dc264ea5c3e0543c762c273788859c236e2a1dec</guid>
+      <pubDate>Tue, 08 Oct 2013 09:49:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/3639/016_Pipe_Operator.mp4" length="75849227" type="video/mp4"/>
+      <itunes:subtitle>Elixir supports the Pipe Operator - `|&gt;` - which acts very similar to pipes in Unix.  We'll dig into it.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[015 - OTP Part 2: Finite State Machines]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=341</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-b9660be464972f6ba5dae7527063c62fc046317e</guid>
+      <pubDate>Fri, 04 Oct 2013 08:59:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/3064/015_OTP_Part_2_Finite_State_Machines.mp4" length="64451194" type="video/mp4"/>
+      <itunes:subtitle>An overview of the GenFSM OTP module and an example use case.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[014 - OTP Part 1: Servers]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=338</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-5a5f721b54d22157b4be94f84e1f4532daa2de1c</guid>
+      <pubDate>Tue, 01 Oct 2013 16:15:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/2985/014_OTP_Part_1_Servers.mp4" length="48107804" type="video/mp4"/>
+      <itunes:subtitle>In this episode, we cover the basics of building a GenServer using OTP.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[013 - Processes, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=332</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-ded71a95e10e1d9b65825db7415a0b4c2bf3ec9e</guid>
+      <pubDate>Fri, 27 Sep 2013 00:24:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5098/013_Processes_Part_2.mp4" length="51324543" type="video/mp4"/>
+      <itunes:subtitle>Modeling a BankAccount with a process</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[012 - Processes]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=331</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-dae0ac7be55f42aa7c2c813c1ee4a76485a473a8</guid>
+      <pubDate>Thu, 26 Sep 2013 22:29:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5097/012_Processes.mp4" length="48513713" type="video/mp4"/>
+      <itunes:subtitle>In today's episode, we're going to play with processes a bit to get a feel for how they can be used.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[011 - Records]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=324</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e76ebd6726108f35a5c8f75fd1b3561b01f16d82</guid>
+      <pubDate>Thu, 19 Sep 2013 09:02:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/22098/011_Records.mp4" length="16801860" type="video/mp4"/>
+      <itunes:subtitle>Just a quick rundown of Records in Elixir</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[010 - List Comprehensions]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=323</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-89b5f6b22a787a4f94b7fa3844d8c858149ecb73</guid>
+      <pubDate>Tue, 17 Sep 2013 08:46:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/12552/010_List_Comprehension.mp4" length="19912068" type="video/mp4"/>
+      <itunes:subtitle>List Comprehensions are a nice feature for generating lists from other lists.  In this episode, we cover the basics, and we test drive a module to generate a deck of cards.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[009 - Dynamo, Part 3]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=322</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-a99258169e716dd101a33fae00e27a8955cbf660</guid>
+      <pubDate>Sun, 15 Sep 2013 21:15:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5094/009_Dynamo_Part_3.mp4" length="32347561" type="video/mp4"/>
+      <itunes:subtitle>In Episode 9, we integrate the work we did in Dynamo with our experiments in Amnesia, to hook persistence into our Dwitter application.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[008 - Dynamo, Part 2]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=317</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-00f8b115e467f028f97dff6ee4173c8a51c44a50</guid>
+      <pubDate>Tue, 10 Sep 2013 11:22:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5093/008_Dynamo_Part_2.mp4" length="55563293" type="video/mp4"/>
+      <itunes:subtitle>The second part in the series on building Dwitter, a Twitter clone, using the Dynamo web framework.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[007 - Dynamo, Part 1]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=313</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-070bcc897c0822994b5119f31bece510220f188c</guid>
+      <pubDate>Thu, 05 Sep 2013 12:45:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5092/007_Dynamo_Part_1.mp4" length="36859846" type="video/mp4"/>
+      <itunes:subtitle>Building a basic web application in Elixir using Dynamo</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[006 - Unit Testing]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=311</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-4df77bde9eb54fd358b172a7606761a69f3cd17b</guid>
+      <pubDate>Tue, 03 Sep 2013 10:52:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5090/006_Testing.mp4" length="124978488" type="video/mp4"/>
+      <itunes:subtitle>This is an exceptionally long episode (21 minutes) on Unit Testing in Elixir.  It's substantially longer than my intended episode length, but I think it's a very important topic so I'm willing to put up with the length.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[005 - Mix and Modules]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=298</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-969472a9610dc652fd4076e9fe793c5abe669af5</guid>
+      <pubDate>Fri, 30 Aug 2013 08:57:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5087/005_Modules.mp4" length="33452954" type="video/mp4"/>
+      <itunes:subtitle>- Use mix to begin a new project&#13;
+- Define a module&#13;
+- Compile and use that module&#13;
+- Examine a module's return value&#13;
+- Document a module and its functions&#13;
+- Generate nice HTML documentation output using ExDoc</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[004 - Functions]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=284</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-db84d34c2d16860fe1fc943d083ad82788e3acb9</guid>
+      <pubDate>Wed, 28 Aug 2013 08:00:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/5086/004_Functions.mp4" length="25081176" type="video/mp4"/>
+      <itunes:subtitle>In Elixir, functions are first class types.  Today we look at: Defining Anonymous Functions; Calling Anonymous Functions; Using Functions as first class types.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[003 - Pattern Matching]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=280</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-3d393067166e1151725896b4a5dc0f89d886aa86</guid>
+      <pubDate>Fri, 23 Aug 2013 09:02:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/14879/003_Pattern_Matching.mp4" length="23293012" type="video/mp4"/>
+      <itunes:subtitle>An overview of Pattern Matching in Elixir</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[002 - Basic Elixir]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=275</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-44f4b90e9da71339292e198d7fd419ef2220d051</guid>
+      <pubDate>Mon, 19 Aug 2013 22:48:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/1367/002_Basic_Elixir.mp4" length="31500970" type="video/mp4"/>
+      <itunes:subtitle>A quick overview of some of the basic types in Elixir: Atoms, Numbers, Lists, Tuples, Regexes, and Booleans.</itunes:subtitle>
+    </item>
+    <item>
+      <title><![CDATA[001 - Introduction and Installing Elixir]]></title>
+      <link>https://elixirsips.dpdcart.com/subscriber/post?id=271</link>
+      <description></description>
+      <guid isPermaLink="false">dpd-e902c86df08867fcb3693be8cb5dd3985aecd62b</guid>
+      <pubDate>Sun, 18 Aug 2013 22:10:00 -0400</pubDate>
+      <enclosure url="https://elixirsips.dpdcart.com/feed/download/1366/001_Introduction_and_Installing_Elixir.mp4" length="68838997" type="video/mp4"/>
+      <itunes:subtitle>In the first episode ever, I introduce Elixir Sips and walk through installing Erlang and Elixir</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

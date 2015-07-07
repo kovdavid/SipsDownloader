@@ -10,14 +10,28 @@ defmodule SipsDownloader do
 
   @download_directory Application.get_env(:episode_download, :directory)
 
+  def main(_args) do
+    run
+  end
+
   def run do
     session_id = SipsDownloader.Http.login_session
 
-    SipsDownloader.Http.download_episodes_feed
-    |> SipsDownloader.FeedParser.parse_episodes
-    |> Enum.filter(&episode_to_download/1)
-    |> Enum.reverse
-    |> Enum.map(&(SipsDownloader.Http.download_episode!(&1, session_id)))
+    episodes_to_download =
+      SipsDownloader.Http.download_episodes_feed
+      |> SipsDownloader.FeedParser.parse_episodes
+      |> Enum.filter(&episode_to_download/1)
+      |> Enum.reverse
+
+    if Enum.empty?(episodes_to_download) do
+      IO.puts "No new episodes to download"
+    else
+      IO.puts "Downloading episodes"
+      Enum.map(episodes_to_download, &(
+        SipsDownloader.Http.download_episode!(&1, session_id)
+      ))
+      episodes_to_download
+    end
   end
 
   def episode_to_download({name, _}) do

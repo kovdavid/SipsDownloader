@@ -21,7 +21,7 @@ defmodule SipsDownloader.Mixfile do
 
   defp package do
     [
-      contributors: ["David Kovacs"],
+      contributors: ["Dávid Kovács"],
       files: ["bin", "config", "lib", "mix.exs", "README*", "LICENSE*"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/DavsX/SipsDownloader"}

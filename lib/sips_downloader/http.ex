@@ -1,32 +1,25 @@
-defmodule SipsDownloader.Http do
-  @download_directory Application.get_env(:episode_download, :directory)
+defmodule SipsDownloader.HTTP do
+  def get_login_url do
+    url = get_login_page() |> SipsDownloader.XMLParser.parse_login_url
 
-  def download_episodes_feed do
-    feed_url = Application.get_env(:episode_feed, :feed_url)
-    username = Application.get_env(:episode_feed, :username)
-    password = Application.get_env(:episode_feed, :password)
-
-    hackney = [basic_auth: {username, password}]
-    case HTTPoison.get(feed_url, [], [hackney: hackney]) do
-      {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> body
-      {:ok, %HTTPoison.Response{status_code: 401}} -> raise "401 - Unauthorized"
-      {:error, response} -> raise "Failed to download feed: #{response.reason}"
-    end
+    "https://elixirsips.dpdcart.com" <> url
   end
 
-  def login_session do
-    login_url = Application.get_env(:episode_download, :login_url)
-    username  = Application.get_env(:episode_download, :username)
-    password  = Application.get_env(:episode_download, :password)
+  defp get_login_page do
+    login_page_url = "https://elixirsips.dpdcart.com/subscriber/content"
+    {:ok, %HTTPoison.Response{body: body, status_code: 200}} = HTTPoison.get(login_page_url)
+    body
+  end
 
+  def login_session(url, username, password) do
     headers = %{"Content-type" => "application/x-www-form-urlencoded"}
     post_data = {:form, [username: username, password: password]}
-    {:ok, response} = HTTPoison.post(login_url, post_data, headers)
+    {:ok, response} = HTTPoison.post(url, post_data, headers)
     extract_session_id(response.headers)
   end
 
   def extract_session_id(headers) do
-    cookie = headers |> Enum.filter(&cookie_header?/1) |> List.first
+    cookie = headers |> Enum.find(&cookie_header?/1)
     {_, "symfony=" <> cookie_val} = cookie
     cookie_val |> String.split(";") |> List.first
   end
@@ -38,11 +31,13 @@ defmodule SipsDownloader.Http do
     end
   end
 
-  def download_episode!({name, link}, sid) do
-    IO.puts "Downloading #{name}"
-
-    {:ok, response} = HTTPoison.get(link, %{}, hackney: [cookie: [{"symfony", sid}]])
-    content = response.body
-    File.write!(Path.join(@download_directory, name), content)
+  def download_episodes_feed(username, password) do
+    feed_url = "https://elixirsips.dpdcart.com/feed"
+    hackney = [basic_auth: {username, password}]
+    case HTTPoison.get(feed_url, [], [hackney: hackney]) do
+      {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> body
+      {:ok, %HTTPoison.Response{status_code: 401}} -> raise "401 - Unauthorized"
+      {:error, response} -> raise "Failed to download feed: #{response.reason}"
+    end
   end
 end

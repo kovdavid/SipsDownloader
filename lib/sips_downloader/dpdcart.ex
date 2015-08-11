@@ -7,7 +7,7 @@ defmodule SipsDownloader.DPDCart do
 
   defp get_login_page do
     login_page_url = "https://elixirsips.dpdcart.com/subscriber/content"
-    {:ok, %HTTPoison.Response{body: body, status_code: 200}} = HTTPoison.get(login_page_url)
+    %HTTPoison.Response{body: body, status_code: 200} = HTTPoison.get!(login_page_url)
     body
   end
 

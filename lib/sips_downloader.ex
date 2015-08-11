@@ -31,7 +31,7 @@ defmodule SipsDownloader do
       IO.puts "No new episodes to download"
     else
       IO.puts "Downloading episodes"
-      SipsDownloader.EpisodeDownloader.run(episodes_to_download, session_id, download_dir)
+      SipsDownloader.ParallelDownloader.run(episodes_to_download, session_id, download_dir)
     end
   end
 

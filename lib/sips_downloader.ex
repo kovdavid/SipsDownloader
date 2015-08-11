@@ -8,8 +8,6 @@ defmodule SipsDownloader do
   iex> SipsDownloader.run()
   """
 
-  @download_directory Application.get_env(:episode_download, :directory)
-
   def main(_args) do
     run
   end
@@ -19,11 +17,12 @@ defmodule SipsDownloader do
     password     = Application.get_env(:sips, :password)
     download_dir = Application.get_env(:sips, :download_dir)
 
-    login_url = SipsDownloader.HTTP.get_login_url
-    session_id = SipsDownloader.HTTP.login_session(login_url, username, password)
+    session_id =
+      SipsDownloader.DPDCart.get_login_url
+      |> SipsDownloader.DPDCart.get_login_session(username, password)
 
     episodes_to_download =
-      SipsDownloader.HTTP.download_episodes_feed(username, password)
+      SipsDownloader.EpisodesFeed.download_episodes_feed(username, password)
       |> SipsDownloader.XMLParser.parse_episodes
       |> Enum.filter(&episode_to_download(download_dir, &1))
       |> Enum.reverse

@@ -1,4 +1,4 @@
-defmodule SipsDownloader.HTTP do
+defmodule SipsDownloader.DPDCart do
   def get_login_url do
     url = get_login_page() |> SipsDownloader.XMLParser.parse_login_url
 
@@ -11,7 +11,7 @@ defmodule SipsDownloader.HTTP do
     body
   end
 
-  def login_session(url, username, password) do
+  def get_login_session(url, username, password) do
     headers = %{"Content-type" => "application/x-www-form-urlencoded"}
     post_data = {:form, [username: username, password: password]}
     {:ok, response} = HTTPoison.post(url, post_data, headers)
@@ -28,16 +28,6 @@ defmodule SipsDownloader.HTTP do
     case header do
       {"Set-Cookie", "symfony=" <> _} -> true
       _ -> false
-    end
-  end
-
-  def download_episodes_feed(username, password) do
-    feed_url = "https://elixirsips.dpdcart.com/feed"
-    hackney = [basic_auth: {username, password}]
-    case HTTPoison.get(feed_url, [], [hackney: hackney]) do
-      {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> body
-      {:ok, %HTTPoison.Response{status_code: 401}} -> raise "401 - Unauthorized"
-      {:error, response} -> raise "Failed to download feed: #{response.reason}"
     end
   end
 end

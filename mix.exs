@@ -35,7 +35,7 @@ defmodule SipsDownloader.Mixfile do
   defp deps do
     [{:httpoison, "~> 0.7"},
      {:sweet_xml, "~> 0.2"},
-     {:html_entities, git: "https://github.com/martinsvalin/html_entities"}]
+     {:html_entities, "~> 0.2"}]
   end
 
   defp escript do

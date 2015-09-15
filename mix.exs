@@ -3,7 +3,7 @@ defmodule SipsDownloader.Mixfile do
 
   def project do
     [app: :sips_downloader,
-     version: "0.1.0",
+     version: "0.2.0",
      name: "SipsDownloader",
      source_url: "https://github.com/DavsX/SipsDownloader",
      elixir: "~> 1.0",

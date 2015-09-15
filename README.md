@@ -20,6 +20,7 @@ cd SipsDownloader
 Update config/config.exs, then generate an executable
 
 ```
+mv config/config.exs.sample config/config.exs
 mix escript.build
 ```
 

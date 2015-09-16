@@ -25,6 +25,9 @@ defmodule SipsDownloader.EpisodeDownloader do
         {:ok, fh} = Path.join(dir, name) |> Kernel.<>(".tmp") |> File.open([:write, :append])
         process_download(work, %{state | fh: fh})
 
+      %HTTPoison.AsyncStatus{code: 302} ->
+        get_redirect_location(work, state)
+
       %HTTPoison.AsyncStatus{code: code} ->
         {:error, "Could not download episode [#{name}]. Status code #{code}"}
 
@@ -34,6 +37,20 @@ defmodule SipsDownloader.EpisodeDownloader do
       5_000 -> {:error, "Expected %HTTPoison.AsyncStatus, got nothing after 5s"}
     end
   end
+
+  defp get_redirect_location(work, state) do
+    receive do
+      %HTTPoison.AsyncHeaders{headers: headers} ->
+        {"Location", location} = Enum.find(headers, fn {type, _} -> type == "Location" end)
+        {:redirect, location}
+
+      result ->
+        {:error, "Expected %HTTPoison.AsyncHeaders, got [#{inspect result}]"}
+    after
+      5_000 -> {:error, "Expected %HTTPoison.AsyncHeaders, got nothing after 5s"}
+    end
+  end
+
 
   defp process_download(work, state = %{file_size: nil, downloaded_size: nil}) do
     receive do

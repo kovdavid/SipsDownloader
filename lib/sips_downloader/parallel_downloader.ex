@@ -22,25 +22,33 @@ defmodule SipsDownloader.ParallelDownloader do
       {:ok, episode_queue, state} = download_episode(episode_queue, state)
       schedule_downloads(episode_queue, state)
     else
-      {:ok, state} = receive_download_msg(state)
+      {:ok, episode_queue, state} = receive_download_msg(episode_queue, state)
       schedule_downloads(episode_queue, state)
     end
   end
 
-  defp receive_download_msg(state) do
+  defp receive_download_msg(episode_queue, state) do
     work_ref = state.work_ref
     receive do
       {^work_ref, worker_pid, _work = {name, _url}, {:ok}} ->
         IO.puts "Finished #{name}"
         pids = Map.delete(state.pids, worker_pid)
         state = %{state | pids: pids, running: state.running - 1}
-        {:ok, state}
+        {:ok, episode_queue, state}
+
+      {^work_ref, worker_pid, _work = {name, _url}, {:redirect, location}} ->
+        IO.puts "Redirect for #{name}"
+        pids = Map.delete(state.pids, worker_pid)
+        state = %{state | pids: pids, running: state.running - 1}
+        new_work = {name, location}
+        episode_queue = [new_work | episode_queue]
+        {:ok, episode_queue, state}
 
       {^work_ref, worker_pid, _work = {name, _url}, {:error, reason}} ->
         IO.puts "Failed to download #{name}: #{reason}"
         pids = Map.delete(state.pids, worker_pid)
         state = %{state | pids: pids, running: state.running - 1}
-        {:ok, state}
+        {:ok, episode_queue, state}
 
       {:DOWN, monitor_ref, _, worker_pid, reason} ->
         if Map.has_key?(state.pids, worker_pid) do
@@ -48,13 +56,13 @@ defmodule SipsDownloader.ParallelDownloader do
           {_work = {name, _url}, pids} = Map.pop(state.pids, worker_pid)
           IO.puts "Failed to download #{name}: #{inspect reason}"
           state = %{state | pids: pids, running: state.running - 1}
-          {:ok, state}
+          {:ok, episode_queue, state}
         else
-          {:ok, state}
+          {:ok, episode_queue, state}
         end
 
       true ->
-        {:ok, state}
+        {:ok, episode_queue, state}
     end
   end
 

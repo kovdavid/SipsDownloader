@@ -26,7 +26,7 @@ defmodule SipsDownloader.EpisodeDownloader do
         process_download(work, %{state | fh: fh})
 
       %HTTPoison.AsyncStatus{code: 302} ->
-        get_redirect_location(work, state)
+        receive_redirect_location()
 
       %HTTPoison.AsyncStatus{code: code} ->
         {:error, "Could not download episode [#{name}]. Status code #{code}"}
@@ -91,7 +91,7 @@ defmodule SipsDownloader.EpisodeDownloader do
     end
   end
 
-  defp get_redirect_location(_work, _state) do
+  defp receive_redirect_location() do
     receive do
       %HTTPoison.AsyncHeaders{headers: headers} ->
         {"Location", location} = Enum.find(headers, fn {type, _} -> type == "Location" end)

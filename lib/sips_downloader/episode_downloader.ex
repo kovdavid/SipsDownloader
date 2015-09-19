@@ -38,20 +38,6 @@ defmodule SipsDownloader.EpisodeDownloader do
     end
   end
 
-  defp get_redirect_location(work, state) do
-    receive do
-      %HTTPoison.AsyncHeaders{headers: headers} ->
-        {"Location", location} = Enum.find(headers, fn {type, _} -> type == "Location" end)
-        {:redirect, location}
-
-      result ->
-        {:error, "Expected %HTTPoison.AsyncHeaders, got [#{inspect result}]"}
-    after
-      5_000 -> {:error, "Expected %HTTPoison.AsyncHeaders, got nothing after 5s"}
-    end
-  end
-
-
   defp process_download(work, state = %{file_size: nil, downloaded_size: nil}) do
     receive do
       %HTTPoison.AsyncHeaders{headers: headers} ->
@@ -77,7 +63,7 @@ defmodule SipsDownloader.EpisodeDownloader do
     receive do
       %HTTPoison.AsyncChunk{chunk: chunk} ->
         chunk_len = byte_size(chunk)
-        IO.binwrite(fh, chunk)
+        :ok = IO.binwrite(fh, chunk)
         process_download(work, %{state | downloaded_size: downloaded_size + chunk_len})
 
       %HTTPoison.AsyncEnd{} ->
@@ -102,6 +88,19 @@ defmodule SipsDownloader.EpisodeDownloader do
 
     after
       5_000 -> {:error, "Expected %HTTPoison.AsyncChunk/End, got nothing after 5s"}
+    end
+  end
+
+  defp get_redirect_location(_work, _state) do
+    receive do
+      %HTTPoison.AsyncHeaders{headers: headers} ->
+        {"Location", location} = Enum.find(headers, fn {type, _} -> type == "Location" end)
+        {:redirect, location}
+
+      result ->
+        {:error, "Expected %HTTPoison.AsyncHeaders, got [#{inspect result}]"}
+    after
+      5_000 -> {:error, "Expected %HTTPoison.AsyncHeaders, got nothing after 5s"}
     end
   end
 end

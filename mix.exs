@@ -34,7 +34,7 @@ defmodule SipsDownloader.Mixfile do
 
   defp deps do
     [{:httpoison, "~> 0.7"},
-     {:sweet_xml, "~> 0.2"},
+     {:floki, "~> 0.6"},
      {:html_entities, "~> 0.2"}]
   end
 

@@ -6,14 +6,10 @@ defmodule SipsDownloader.XMLParser do
   Record.defrecord :xmlText, Record.extract(:xmlText, from_lib: "xmerl/include/xmerl.hrl")
 
   def parse_login_url(string) do
-    :xmerl_xpath.string(~c{//*/form}, to_xml(string))
-    |> List.first
-    |> xmlElement(:attributes)
-    |> Enum.filter(&(:action == xmlAttribute(&1, :name)))
-    |> List.first
-    |> xmlAttribute(:value)
-    |> to_string
-    |> String.strip
+    string
+    |> Floki.find("form")
+    |> Floki.attribute("action")
+    |> Enum.at(0)
   end
 
   def parse_episodes(feed) do

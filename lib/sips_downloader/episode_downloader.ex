@@ -22,7 +22,7 @@ defmodule SipsDownloader.EpisodeDownloader do
   defp process_download(work = {name, _url}, state = %{fh: nil, dir: dir}) do
     receive do
       %HTTPoison.AsyncStatus{code: 200} ->
-        {:ok, fh} = Path.join(dir, name) |> Kernel.<>(".tmp") |> File.open([:write, :append])
+        {:ok, fh} = Path.expand(dir) |> Path.join(name) |> Kernel.<>(".tmp") |> File.open([:write, :append])
         process_download(work, %{state | fh: fh})
 
       %HTTPoison.AsyncStatus{code: 302} ->
